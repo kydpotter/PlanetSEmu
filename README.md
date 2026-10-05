@@ -1,4 +1,5 @@
 # PlanetSEmu
+O# (O5201)
 
 Code accompanying the paper **“Emulating Distributions of Planetary System Architectures”** by Ky Potter, Lucas Brefka, Derek Bingham, Eric B. Ford, Kelly R. Moran, and David C. Stenning.
 
@@ -122,8 +123,5 @@ Please see the accompanying paper for the complete acknowledgments and funding s
 
 ## License
 
-Please refer to the `LICENSE` file in this repository for terms governing use and redistribution of the code.
+Please refer to the `LICENSE` and `OSS License` files in this repository for terms governing use and redistribution of the code.
 
-## Release information
-
-Approved for public release: **LA-UR-26-23261**.
